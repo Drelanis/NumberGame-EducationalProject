@@ -1,5 +1,4 @@
 import { PrimaryButton, Title } from "@components/ui";
-import { Colors } from "@constants/colors";
 import { View, ScrollView, StyleSheet } from "react-native";
 import { GameOverScreenProps } from "./types";
 import { ScreenImage, SummaryText } from "./components";
